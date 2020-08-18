@@ -1,2 +1,2 @@
 # OtrippleS.Portal
-test publish
+Initial state of a blazor application
